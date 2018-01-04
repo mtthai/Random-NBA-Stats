@@ -8,5 +8,6 @@ Learn more about the NBA by discovering random stats on all players and teams
 3. Start client first: npm start in client folder
 4. Start api server: npm start or node index.js
 5. Go to http://localhost:3000/
+<br>
 
-
+![Alt text](Screenshot.png?raw=true)
