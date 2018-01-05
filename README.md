@@ -1,9 +1,9 @@
 # Random-NBA-Stats
-Learn more about the NBA by discovering random stats on all players and teams
+Learn more about the NBA by discovering random (and sometimes interesting) stats on all players and teams.
 
 Using https://github.com/bttmly/nba for stat look ups from stats.nba.com
 
-*Cannot use api server on any PAAS ilke Heroku because <a href="https://github.com/bttmly/nba/issues/41"> stats.nba blocks all calls from those services. </a> But it works locally.
+*Cannot use api server on any PAAS ilke Heroku because <a href="https://github.com/bttmly/nba/issues/41"> stats.nba blocks all calls from those services. </a> But it works locally:
 
 1. Clone or download project
 2. Install dependencies: npm install in root and client folder
