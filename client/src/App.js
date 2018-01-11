@@ -12,11 +12,7 @@ class App extends Component {
   getData(){
     axios({
       url: '/api/nba',
-      method: 'POST',
-      //headers: {
-      // 'Accept': 'text/html',
-      // 'Content-Type': 'text/html',
-      //}, 
+      method: 'POST'
     })
     .then(res => {
       this.setState({results: res.data})
